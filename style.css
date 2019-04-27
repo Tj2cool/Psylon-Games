@@ -54,6 +54,7 @@ header nav ul li a.active{
     color: white;
     font-weight: bold;
     background: yellow;
+    color: black;
 }
 .menu-toggle{
     color: white;
@@ -159,7 +160,7 @@ header nav ul li a.active{
 #home-about p, h6{
     text-align: center;
     margin: 0px;
-    padding: 0px 100px 50px 100px;
+    padding: 0px 25px 25px 25px;
     font-size: 20px;
 }
 #games-about h2{
@@ -173,7 +174,7 @@ header nav ul li a.active{
 #games-about p, h6{
     text-align: center;
     margin: 0px;
-    padding: 0px 100px 50px 100px;
+    padding: 0px 25px 25px 25px;
     font-size: 20px;
 }
 #team-about h2{
@@ -187,7 +188,7 @@ header nav ul li a.active{
 #team-about p, h6{
     text-align: center;
     margin: 0px;
-    padding: 0px 100px 50px 100px;
+    padding: 0px 25px 25px 25px;
     font-size: 20px;
 }
 #business-about h2{
@@ -201,12 +202,13 @@ header nav ul li a.active{
 #business-about p, h6{
     text-align: center;
     margin: 0px;
-    padding: 0px 100px 50px 100px;
+    padding: 0px 25px 25px 25px;
     font-size: 20px;
 }
 #business-about ul{
     text-align: left;
-    padding: 0px 0px 0px 125px
+    margin: 0px;
+    padding: 0px 0px 25px 75px
 }
 /*footer*/
 #footer{
