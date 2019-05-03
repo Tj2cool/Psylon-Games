@@ -203,7 +203,7 @@ header nav ul li a.active{
     line-height: 20px;
     font-family: Verdana, Arial, Helvetica, sans-serif;
 }
-#business-about h2{
+#contact-about h2{
     margin: 0px;
     padding: 0px;
     text-align: center;
@@ -212,7 +212,7 @@ header nav ul li a.active{
     font-size: 23px;
     padding: 20px 0px 20px 0px;
 }
-#business-about p, h5{
+#contact-about p, h5{
     text-align: center;
     margin: 0px;
     padding: 0px 25px 35px 25px;
@@ -220,7 +220,7 @@ header nav ul li a.active{
     line-height: 20px;
     font-family: Verdana, Arial, Helvetica, sans-serif;
 }
-#business-about ul{
+#contact-about ul{
     text-align: left;
     margin: 0px;
     padding: 0px 0px 25px 75px
