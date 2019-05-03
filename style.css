@@ -137,13 +137,13 @@ header nav ul li a.active{
     margin: 0px;
     padding: 0px;
 }
-#business-background{
+#contact-background{
     background-color: #070707;
     padding: 278.9px 0px 278.9px 0px;
     margin: 0px;
     border-bottom: 5px solid yellow;
 }
-#business-background h3{
+#contact-background h3{
     text-transform: capitalize;
     text-align: center;
     font-size: 40px;
